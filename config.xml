@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tcclauncher>
+  <options count_per_line="7" />
+  <applications>
+    <app id="1" path="/usr/bin/TMPlayerGUI" name="Media Player" image_path="/usr/share/tcc_launcher/app_images/media_player" image_name="media_player" args=""/>
+<!-- <app id="10" path="/usr/bin/navit" name="Navigation" image_path="/usr/share/tcc_launcher/app_images/navit" image_name="navit" args="" language="en_US"/> -->
+<!-- <app id="2" path="/usr/bin/iPodPlayer" name="iPod Player" image_path="/usr/share/tcc_launcher/app_images/ipod_player" image_name="ipod_player" args=""/> -->
+<!-- <app id="3" path="/usr/bin/CarPlayGui" name="CarPlay" image_path="/usr/share/tcc_launcher/app_images/carplay" image_name="carplay" args=""/> -->
+<!-- <app id="6" path="/usr/bin/PhoneGUI" name="Phone" image_path="/usr/share/tcc_launcher/app_images/phone" image_name="phone" args=""/> -->
+<!-- <app id="7" path="/usr/bin/DMBPlayer" name="HD TDMB" image_path="/usr/share/tcc_launcher/app_images/broadcast" image_name="tdmb" args=""/> -->
+<!-- <app id="8" path="/usr/bin/ISDBTPlayer" name="ISDB T" image_path="/usr/share/tcc_launcher/app_images/broadcast" image_name="isdbt" args=""/> -->
+<!-- <app id="11" path="/usr/bin/TcRadioApp" name="Radio Application" image_path="/usr/share/tcc_launcher/app_images/radio" image_name="radio" args=""/> -->
+<!-- <app id="12" path="/usr/bin/TcDrmApp" name="DRM Application" image_path="/usr/share/tcc_launcher/app_images/radio" image_name="drm" args=""/> -->
+<!-- <app id="13" path="/usr/bin/TcDabApp" name="DAB Application" image_path="/usr/share/tcc_launcher/app_images/radio" image_name="dab" args=""/> -->
+    <app id="14" path="/usr/bin/Setting" name="Setting" image_path="/usr/share/tcc_launcher/app_images/setting" image_name="settings" status="active" args=""/>
+    <app id="0" path="/usr/bin/Launcher" name="Launcher" image_path="/usr/share/tcc_launcher/app_images/launcher" image_name="launcher" args="" status="active"/>
+  </applications>
+</tcclauncher>
+
